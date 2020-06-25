@@ -1,0 +1,23 @@
+.news_detail.data-v-69e22b1e {
+  width: 750rpx;
+}
+.news_detail .news_item.data-v-69e22b1e {
+  font-size: 30rpx;
+  padding: 0 20rpx;
+}
+.news_detail .news_item > text.data-v-69e22b1e {
+  font-size: 32rpx;
+  text-align: center;
+  display: block;
+  margin: 20rpx 0rpx;
+}
+.news_detail .news_item .info.data-v-69e22b1e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 15rpx;
+}
+

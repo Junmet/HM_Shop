@@ -1,0 +1,1 @@
+<view class="goods_list data-v-5566b618"><block wx:if="{{goods}}"><goods_list vue-id="576f0adc-1" goods="{{goods}}" data-event-opts="{{[['^goodsItemClick',[['goGoodsDetail']]]]}}" bind:goodsItemClick="__e" class="data-v-5566b618" bind:__l="__l"></goods_list></block><block wx:if="{{flog}}"><view class="qing data-v-5566b618">---亲！已经没有下一页了---</view></block></view>
